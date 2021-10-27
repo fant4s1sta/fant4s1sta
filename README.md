@@ -1,6 +1,6 @@
 # Hello there, I'm Yifan 👋🏻
 
-## I'm a Unimelb Master Student and Developer working at Ant Group!
+## I'm a Unimelb Master Student and Developer!
 
 - 🌱 I’m currently learning more front-end development techniques.
 - ⚽️ I’m a big fan of Lionel Messi.
