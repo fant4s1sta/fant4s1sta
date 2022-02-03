@@ -6,4 +6,4 @@
 - ⚽️ I’m a big fan of Lionel Messi.
 - 🌸 I'm addicted to Miyawaki Sakura.
 - 🎮 I like playing video games (PC, Nintendo Switch, PS5).
-- 🥅 2021 Goals: Become a better frontend programmer!
+- 🥅 2022 Goals: Become a better frontend programmer!
